@@ -86,6 +86,3 @@ You can test API integration by:
 4. Viewing bookings as patient/admin.
 
 ---
-
-## 📄 License
-MIT License
