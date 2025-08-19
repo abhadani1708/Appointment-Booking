@@ -1,6 +1,6 @@
-# Clinic Appointments Frontend
+# Clinic Appointments
 
-This is the **React frontend** for the Clinic Appointments application.  
+This is the **Full Stack Application** for the Clinic Appointments application.  
 It connects to the backend API (built with Node.js/Express + PostgreSQL) and allows patients to book appointments and admins to manage bookings.
 
 ---
@@ -20,6 +20,7 @@ It connects to the backend API (built with Node.js/Express + PostgreSQL) and all
 - **TailwindCSS** (optional, works without styling too)
 - **Framer Motion** (for animations)
 - **Fetch API** for backend communication
+- **Spring Boot
 
 ---
 
